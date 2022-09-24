@@ -2,10 +2,10 @@
 title: 傅里叶的首字母
 description: 简洁甚至有点简陋的博客网站
 url: https://sheldonvan.github.io/blog.github-io/
-avatar: /avatar.jpeg
+avatar: /avatar.png
 paginate: 5
 permalink: pretty
-cover_image: /bg.jpeg
+cover_image: /bg.png
 
 # Gems
 plugins:
