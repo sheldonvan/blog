@@ -29,14 +29,14 @@ exclude:
 
 # Optimize Jekyl SEO Tag
 twitter:
-  username: vszhub
+  username: fly
   card: summary
 logo: logo.png
 social:
   name: Songzi Vong
   links:
-    - https://twitter.com/vszhub
-    - https://github.com/vszhub
+    - https://twitter.com
+    - https://github.com
 google_site_verification: xxxxx
 lang: en
 
@@ -55,5 +55,5 @@ sass:
 # Specify the author for blog posts
 author:
   name: Fan Lingyun
-  url: https://github.com/vszhub/
-  email: vszhub@gmail.com
+  url: www.baidu.com
+  email: 761704217@qq.com
